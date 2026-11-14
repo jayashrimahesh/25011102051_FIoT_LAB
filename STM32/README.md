@@ -1,8 +1,8 @@
 # STM32 – FOUNDATIONS OF IoT LABORATORY
 
-**Repository Name:** 25011102037_FIoT_LAB
+**Repository Name:** 25011102051_FIoT_LAB
 
-**Register Number:** 25011102037
+**Register Number:** 25011102051
 
 **Subject:** Foundations of IoT Laboratory
 

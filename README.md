@@ -1,8 +1,8 @@
 # Foundations of IoT Laboratory
 
-**Repository Name:** 25011102037_FIoT_LAB
+**Repository Name:** 25011102051_FIoT_LAB
 
-**Register Number:** 25011102037
+**Register Number:** 25011102051
 
 **Subject:** Foundations of IoT Laboratory
 
@@ -18,7 +18,7 @@ The experiments are organized into two main sections:
 ## Repository Structure
 
 ```text
-25011102037_FIoT_LAB/
+25011102051_FIoT_LAB/
 ├── README.md
 ├── 8051/
 │   ├── CAT 2/
